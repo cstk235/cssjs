@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://datanla.net/' target='_blank'><img src='http://dalatexpress.net/wp-content/uploads/2016/06/khach-san-da-lat.gif' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://datanla.net/' target='_blank'><img src='http://dalatexpress.net/wp-content/uploads/2016/06/khach-san-da-lat.gif' width='500px'/>Khách sạn Đà Lạt</a>. Click đặt ngay để có giá tốt nhất. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
