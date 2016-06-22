@@ -1,5 +1,5 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//website http://dalatexpress.net or http://datanla.net
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
