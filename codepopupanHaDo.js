@@ -1,4 +1,4 @@
-	var url_popup = 'http://bit.ly/1LbdAEr';
+	var url_popup = 'http://bit.ly/28OvwxT';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
@@ -34,6 +34,6 @@
       });  
       //]]>
 	/*
-	var url_popup = 'http://giaiphapthuonghieu.vn';
+	var url_popup = 'http://www.canho-centrosagarden.com/2016/04/can-ho-centrosa-garden-gia-goc-tu-chu-dau-tu.html';
 	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
 	*/
