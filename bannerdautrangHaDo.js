@@ -1,5 +1,5 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//website http:http://www.canho-centrosagarden.com/ or http://datanla.net
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://datanla.net/' target='_blank'><img src='http://dalatexpress.net/wp-content/uploads/2016/06/khach-san-da-lat.gif' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.canho-centrosagarden.com/2016/04/can-ho-centrosa-garden-gia-goc-tu-chu-dau-tu.html' target='_blank'><img src='https://4.bp.blogspot.com/-uYPv9Ynypbs/V0mxZFFnoHI/AAAAAAAAAGA/XCFyT8THvT4DGf3HyLCKMZMxAuZetU_-QCLcB/s1600/Phoi-canh-dem-can-ho-ha-do-centrosa-garden.PNG' width='500px'/>Căn hộ Hà Đô Centrosa Garden</a>. Click xem ngay giá gốc từ chủ đầu tư. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
