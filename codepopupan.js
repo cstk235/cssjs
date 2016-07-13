@@ -1,4 +1,4 @@
-	var url_popup = 'http://bit.ly/29Fir9P';
+	var url_popup = 'http://datanla.net/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
@@ -34,6 +34,6 @@
       });  
       //]]>
 	/*
-	var url_popup = 'http://eagleland.vn/du-an/ha-do-centrosa-garden';
+	var url_popup = 'http://datanla.net/';
 	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
 	*/
