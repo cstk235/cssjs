@@ -34,6 +34,6 @@
       });  
       //]]>
 	/*
-	var url_popup = 'http://www.canho-centrosagarden.com/2016/04/can-ho-centrosa-garden-gia-goc-tu-chu-dau-tu.html';
+	var url_popup = 'http://eagleland.vn/du-an/ha-do-centrosa-garden';
 	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
 	*/
